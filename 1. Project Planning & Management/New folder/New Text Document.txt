@@ -1,0 +1,71 @@
+Ali:Data Quality Assessment+Data Cleaning & Preparation+استكشاف الداتا بـ PythonEDA+التحليل الإحصائي
+Statistical Analysis
++الاتجاه والموسمية
+Time-Series, Trend & Seasonality
++التحليل الجغرافي
+Geographic / Spatial Analysis
++جودة الكود
+Source Code Quality
++ملف README+
+تجميع الملفات النهائية
+Packaged Final Files
++مقترح المشروع
+Project Proposal
++خطة المشروع
+Project Plan
++توزيع المهام والأدوار
+Task Assignment & Roles
++مراجعة الأدبيات
+Literature Review
++ملاحظات المحاضر ومعايير الدرجات
+Lecturer Feedback & Grading
++تنظيم GitHub
+GitHub Organization
++المتابعة داخل الفريق
+Team Follow-up
+-------------------------------------------------------
+Salma:تحليل SQL
+SQL Analysis
++مقارنة الأرقام بين الأدوات
+Cross-Tool Validation
++المعمارية والأدوات
+Architecture & Technology Stack
++تقييم المخاطر وخطة الحد منها
+Risk Assessment & Mitigation
++فيديو توضيحي
+Video Demonstration
++التوثيق الفني
+Technical Documentation
+-------------------------------------------------------
+Sara:أسئلة التحليل وتصميم الـ KPIs
+Analytical Questions & KPI Design
+Dashboard في Power BI فقط 
++مؤشرات نجاح المشروع
+Project KPIs
++رسومات تدفق الداتا والسلوك
+DFD, Sequence, Activity, State, Class
++الانسايتس اللي هنطلعها من الداشبورد 
+---------------------------------------------------------
+yasmeen:تصميم قاعدة البيانات
+Database Design: ER + Schema
++معادلات الداكس وتعمل كلين في باور كويري داخل باور بي أي الجزء دا هتساعد ساره فيه في باور بي أي
++النتايج التحليلية
+Analytical Results
++العرض النهائي
+Final Presentation PPT/PDF
++مخططات المكونات والنشر واستراتيجية النشر
+Component, Deployment, Strategy
+-------------------------------------------------------
+jessy:
+توثيق الداتا وقاموس الداتا
+Dataset Documentation & Data Dictionary
++تصميم الـ Dashboards
+Wireframes, Mockups, UI/UX
++Dashboard في Tableau+جمع المتطلبات
+Requirements Gathering
++بيان المشكلة ومخطط حالات الاستخدام
+Problem Statement & Use Case Diagram
++التقرير النهائي
+Final Project Report
++الاختبار وضمان الجودة
+Testing & QA
