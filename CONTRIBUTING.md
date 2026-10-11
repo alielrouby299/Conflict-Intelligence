@@ -23,6 +23,12 @@ Examples:
 
 Direct changes to the `main` branch should be avoided.
 
+### Project Branches
+
+The project has 17 main branches, one for each area of work (for example `analysis/python`, `sql/analysis-geospatial`, `tableau/dashboard`). The full list, with the owner and what goes in each branch, is in `BRANCHES.md`.
+
+Upload your work to your area's branch. Create a new branch with the naming convention above only for a separate change, after asking Ali.
+
 All changes should be merged into `main` through a Pull Request.
 
 ---
